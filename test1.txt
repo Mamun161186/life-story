@@ -1,7 +1,4 @@
-hello world from Mamun. This is updated in the local repo. this is 4th commit
+hello, world from Mamun. This is updated in the local repo. this is 4th commit
 this is for pull operation
-<<<<<<< HEAD
-this is from i brnch
-=======
-this this from feature 2
->>>>>>> 937c8eb5c2d4b7e1bbc8f3849ab1a0279d6b1717
+
+this is from the i branch
